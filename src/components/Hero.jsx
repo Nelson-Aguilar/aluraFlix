@@ -141,7 +141,7 @@ const Styledh3 = styled.h3`
   align-self: flex-start;
   padding: 0.5rem;
   margin-bottom: 2rem;
-  margin-left:5rem;
+  margin-left:4.5rem;
   border-radius: 6px;
   font-family: "Montserrat";
   font-size: 2.5rem;
