@@ -40,7 +40,7 @@ const Hero = () => {
     // Establecer un temporizador para cambiar el video cada 2 segundos
     const intervalId = setInterval(() => {
       actualizarVideoAleatorio();
-    }, 2500);
+    }, 3500);
 
     // Limpiar el temporizador al desmontar el componente
     return () => clearInterval(intervalId);
