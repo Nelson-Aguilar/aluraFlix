@@ -37,7 +37,7 @@ const Hero = () => {
     // Obtener los videos al montar el componente
     fetchVideos();
 
-    // Establecer un temporizador para cambiar el video cada 2 segundos
+    // Establecer un temporizador para cambiar el video cada 6 segundos
     const intervalId = setInterval(() => {
       actualizarVideoAleatorio();
     }, 6000);
